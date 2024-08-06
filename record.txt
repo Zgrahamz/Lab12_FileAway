@@ -1,0 +1,5 @@
+Bilbo, Baggins, 000001, BBaggins@shire.net, 1044
+Potter, Harry, 000002, WizHarry@hogwarts.edu, 1288
+Obama, Barack, 000003, Obamium@obama.com, 1730
+Turing, Alan,  000004, compSciMan@smart.org, 2380
+Griffin, Peter, 000005, peetahg@oatlook.com, 2925
